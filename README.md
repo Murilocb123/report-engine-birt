@@ -2,5 +2,5 @@
 
 ## Comando rodado para instalar o jar do birt
 ```sh
-mvn install:install-file -DgroupId=org.eclipse.birt.runtime -DartifactId=birt-v4.13.0 -Dversion=4.13.0  -Dfile=./repository/org/eclipse/birt/runtime/org.eclipse.birt.runtime_4.13.0-20230302.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=./repository -DcreateChecksum=true
+mvn install:install-file -DgroupId=br.com.reportengine.birt.runtime -DartifactId=birt-v4.13.0 -Dversion=4.13.0  -Dfile="D:/muril/OneDrive/Documents/repositories/microservices/lib/org.eclipse.birt.runtime_4.13.0-20230302.jar" -Dpackaging=jar -DlocalRepositoryPath=. -DcreateChecksum=true -DgeneratePom=true
 ```
