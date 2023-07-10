@@ -8,8 +8,8 @@ Este projeto é um motor de relatórios baseado em BIRT. É uma aplicação web 
 
 ## Branches (english)
 - master: Source code of the last version 
-- mvn: dependencies managed by maven using jitpack
+- [mvn](https://github.com/Murilocb123/report-engine-birt/tree/mvn): dependencies managed by maven using jitpack
 
 ## Ramificações(português)
 - master: Código fonte da última versão
-- [mvn](./tree/mvn): dependências gerenciadas pelo maven usando jitpack
+- [mvn](https://github.com/Murilocb123/report-engine-birt/tree/mvn): dependências gerenciadas pelo maven usando jitpack
