@@ -12,4 +12,4 @@ Este projeto é um motor de relatórios baseado em BIRT. É uma aplicação web 
 
 ## Ramificações(português)
 - master: Código fonte da última versão
-- mvn: dependências gerenciadas pelo maven usando jitpack
+- [mvn](./tree/mvn): dependências gerenciadas pelo maven usando jitpack
